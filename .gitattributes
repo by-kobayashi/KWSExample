@@ -1,2 +1,2 @@
 # 忽略整个 assets 目录（常用于前端静态资源）
-app/main/assets/* linguist-vendored
+app/src/main/assets/* linguist-vendored
